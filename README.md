@@ -4,6 +4,9 @@
 A small physical stopwatch I built using an ESP32 and 7-segment displays. 
 It sits on a desk and uses one-button to control it.
 
+## Demo
+https://youtube.com/shorts/eDUPJtupzWU?feature=share
+
 ---
 
 ## Features
