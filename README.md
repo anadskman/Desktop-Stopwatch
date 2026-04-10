@@ -1,5 +1,5 @@
 # Desktop Stopwatch
-![Finished Build(https://github.com/user-attachments/assets/8fd12c98-ecbc-439b-a787-a13cb7ecf5cd)
+![Finished Build](https://github.com/user-attachments/assets/8fd12c98-ecbc-439b-a787-a13cb7ecf5cd)
 
 A small physical stopwatch I built using an ESP32 and 7-segment displays. 
 It sits on a desk and uses one-button to control it.
